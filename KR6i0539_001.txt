@@ -1,23 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:10.807040
+#+DATE: 2015-08-30 20:22:12.238263
 #+TITLE: 第一義法勝經
 #+PROPERTY: CBETA_ID T17n0833
 #+PROPERTY: ID KR6i0539
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 833
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0539_T_000-0879b>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0539_T_001-0879b> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.833[No.834]¶
+No. 833 [No. 834]¶
 
-第一義法勝經翻譯之記
-:PROPERTIES:
-:head: 第一義法勝經翻譯之記
-:END:
-¶
+第一義法勝經翻譯之記¶
 
 夫愛法者必深善根。《涅槃經》云：「供佛二恒。」¶
 魏尚書令儀同高公，重法心成，生上財想，¶
@@ -28,8 +24,7 @@ No.833[No.834]¶
 五千五百七十六字。¶
 ¶
 ¶
-
- 《第一義法勝經》¶
+《第一義法勝經》¶
 ¶
 元魏婆羅門瞿曇般若流支譯¶
 
@@ -484,7 +479,7 @@ No.833[No.834]¶
 尼婆帝光明普照。」¶
 
 爾時，世尊怡然微笑，出自舌根遍覆己面。¶
-彼舌根中出無量色、出種種色——所謂青、黃、赤、¶
+彼舌根中出無量色、出種種色——所謂青、廣、赤、¶
 白等色、紫頗梨色——遍至無量無邊世界，然¶
 後還來入世尊足。
 
